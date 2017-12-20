@@ -1,0 +1,7 @@
+timing:
+  check_interval: 60
+  stop_timeout: 30
+whitelist:
+  images:
+    - gcr.io/google_containers/pause-amd64
+    - containerchk
